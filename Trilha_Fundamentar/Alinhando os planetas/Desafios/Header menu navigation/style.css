@@ -1,0 +1,22 @@
+header {
+    padding: 4rem;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    gap: .8rem;
+}
+
+ult li:last-child {
+    background: black;
+    color: white;
+    padding: .8rem;
+}

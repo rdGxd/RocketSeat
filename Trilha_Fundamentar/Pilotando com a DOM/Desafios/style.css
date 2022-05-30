@@ -1,0 +1,29 @@
+body {
+    background: purple 100;
+    display: flex;
+    columns: flex;
+    align-items: center;
+    justify-content: center;
+    height: screen;
+}
+
+button {
+    background-color: purple 700;
+    text-decoration-color: white;
+    background-position-x: 4;
+    background-position-y: 2;
+    border-radius: rounded;
+}
+
+div {
+    background-color: gray 500;
+    width: screen;
+    height: screen;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+div.outro {
+    background:white;
+    text-align: center;
+}

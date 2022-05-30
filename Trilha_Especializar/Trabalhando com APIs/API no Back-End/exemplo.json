@@ -1,0 +1,22 @@
+{
+    "nome": "Rodrigo Silva",
+    "cidade": "Salvador",
+    "telefone": 78978978978,
+    "livros_favoritos": [
+        "codigo limpo",
+        "neuromancer",
+        "essencialismo"
+    ],
+    "hobbies": {
+        "semana": "patinação",
+        "fim_de_semana": {
+            "sabado": "cinema",
+            "domingo": "parque",
+            "outros": [
+                "caminhada",
+                "volei",
+                "netflix"
+            ]
+        }
+    }
+}
