@@ -1,0 +1,1 @@
+Podemos criar quantas branch's quisermos mas as vezes isso pode acabar deixando muita branch esquecida pra trás e nós confundir no momento de trocar de uma branch para outra, então existe momentos que é necessário apagar algumas branch's, vemos nessa aula o comando para realizar essa ação

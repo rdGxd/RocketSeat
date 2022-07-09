@@ -1,0 +1,1 @@
+Merge é o comando do git para juntar os commits de uma branch com os commits de outra branch sempre respeitando a ordem cronológica desses commits

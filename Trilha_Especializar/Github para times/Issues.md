@@ -1,0 +1,1 @@
+Issue no github é onde os usuários contribuem ou usuários finais da aplicação reportam os problemas/bugs encontrados. Trata-se da ideia de deixar comentários em projetos.

@@ -1,0 +1,1 @@
+Projeto no GitHub é uma ferramenta customizada de tabela de tarefas, com ela conseguimos fazer o gerenciamento de tarefas de um time, as tarefas podem ser issues e o assign (pessoa responsável) é mostrada na tabela junto com a issue.

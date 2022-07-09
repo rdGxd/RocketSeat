@@ -1,0 +1,1 @@
+O GitHub permite que qualquer pessoa possa colaborar em projetos públicos, criando uma grande comunidade global. Isso permite com que você possa contribuir com seus projetos favoritos ou qualquer outro projeto que queira.
